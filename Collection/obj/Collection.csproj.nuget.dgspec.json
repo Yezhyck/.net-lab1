@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj": {}
+    "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\1 СЕМЕСТР\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj": {
+    "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\1 СЕМЕСТР\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\1 СЕМЕСТР\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj",
         "projectName": "Collection",
-        "projectPath": "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj",
+        "projectPath": "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\1 СЕМЕСТР\\.NET\\Lab1\\Lab1\\Collection\\Collection.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\.NET\\Lab1\\Lab1\\Collection\\obj\\",
+        "outputPath": "C:\\Users\\Legion\\Desktop\\КПИ\\3 Курс\\1 СЕМЕСТР\\.NET\\Lab1\\Lab1\\Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
